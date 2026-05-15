@@ -16,5 +16,26 @@
       "islamic"
     ],
     "server_num": 44
+  },
+  "rawan": {
+    "username": "rawan",
+    "password": "Rawan2009/",
+    "student_type": "علمي",
+    "telegram_user_id": "8497240804",
+    "telegram_username": "rrrtu23",
+    "telegram_first_name": "Bato",
+    "profile_photo_url": null,
+    "session_id": "188e8d21-f1de-40b2-b449-63b6c79825f2",
+    "created_at": "2026-05-14T14:29:09.705577",
+    "verified": true,
+    "last_login": "2026-05-14T14:37:26.399169",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "statistics",
+      "biology",
+      "literary_studies"
+    ],
+    "server_num": 44
   }
 }
