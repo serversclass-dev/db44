@@ -61,5 +61,48 @@
     "last_file": "p4.txt",
     "subject": "islamic",
     "saved_at": "2026-05-11T17:54:57.793372"
+  },
+  "rawan__statistics": {
+    "username": "rawan",
+    "subject_id": "statistics",
+    "messages": [
+      {
+        "role": "user",
+        "content": "هل الباب الثاني والثالث متصلات ببعض",
+        "timestamp": "2026-05-14T14:39:59.787163+00:00"
+      },
+      {
+        "role": "user",
+        "content": "هل الباب الثاني والثالث متصلات ببعض\n٠٤:٣٩ م",
+        "timestamp": "2026-05-14T14:40:41.834002+00:00"
+      },
+      {
+        "role": "user",
+        "content": "ذات الحدين",
+        "timestamp": "2026-05-14T14:40:55.922036+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "هل الباب الثاني والثالث متصلات ببعض",
+        "timestamp": "2026-05-14T14:39:59.787163+00:00"
+      },
+      {
+        "role": "user",
+        "content": "هل الباب الثاني والثالث متصلات ببعض\n٠٤:٣٩ م",
+        "timestamp": "2026-05-14T14:40:41.834002+00:00"
+      },
+      {
+        "role": "user",
+        "content": "ذات الحدين",
+        "timestamp": "2026-05-14T14:40:55.922036+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "statistics",
+    "saved_at": "2026-05-14T14:40:09.739632"
   }
 }
